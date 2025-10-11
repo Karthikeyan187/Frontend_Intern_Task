@@ -1,0 +1,9 @@
+[INFO] Server running on 5001
+POST /api/auth/register 201 15ms
+POST /api/auth/login 200 20ms
+GET /api/profile 200 12ms
+GET /api/notes 200 8ms
+POST /api/notes 201 18ms
+PUT /api/notes/:id 200 14ms
+DELETE /api/notes/:id 200 10ms
+GET /api/notes?q=search 200 9ms
