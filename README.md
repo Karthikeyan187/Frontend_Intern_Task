@@ -116,5 +116,3 @@ To scale this app for production:
 - **Frontend**: Optimize with code splitting and lazy loading.
 - **CI/CD**: Automate with GitHub Actions for reliable deployments.
 
-
-Built with ❤️ for the Bajarang Frontend Developer Intern role.
