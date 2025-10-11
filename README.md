@@ -116,14 +116,5 @@ To scale this app for production:
 - **Frontend**: Optimize with code splitting and lazy loading.
 - **CI/CD**: Automate with GitHub Actions for reliable deployments.
 
-## 🤝 Contributing
-
-Feel free to fork and submit pull requests. For major changes, please open an issue first.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 Built with ❤️ for the Bajarang Frontend Developer Intern role.
